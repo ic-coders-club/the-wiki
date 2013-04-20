@@ -1,10 +1,10 @@
-the-wiki
+[the-wiki](https://github.com/benkrikler/the-wiki/wiki)
 ========
 
-This repository is used to host the Coder's Club [wiki]() (for now at least).
+This repository is used to host the Coder's Club [wiki](https://github.com/benkrikler/the-wiki/wiki) (for now at least).
 We want everyone to contribute to this and add to the wiki anything they find useful.
 
-## Snippets
+### Snippets
 This repository also contains a few small demonstration pieces of code.
 They are there predominantly to help newcomers to a computing by example.
 
