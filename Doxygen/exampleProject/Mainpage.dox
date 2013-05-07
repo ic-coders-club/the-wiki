@@ -1,0 +1,14 @@
+// The following documentation will appear on the main page.  This
+// collection of \mainpage and \page directives
+
+/*! \mainpage The main page
+
+<b> Testing testing, 1, 2, 3 !!! </b>
+
+\section Main The main program
+Code in this project is called from the main function in file:
+ \ref main.cc
+
+This documentation itself is written in the file called Mainpage.dox in the top directory of this project.
+
+*/
