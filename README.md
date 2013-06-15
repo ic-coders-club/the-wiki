@@ -1,7 +1,7 @@
-[the-wiki](https://github.com/benkrikler/the-wiki/wiki)
+[the-wiki](https://github.com/ichep-coders-club/the-wiki/wiki)
 ========
 
-This repository is used to host the Coder's Club [wiki](https://github.com/benkrikler/the-wiki/wiki) (for now at least).
+This repository is used to host the Coder's Club [wiki](https://github.com/ichep-coders-club/the-wiki/wiki) (for now at least).
 We want everyone to contribute to this and add to the wiki anything they find useful.
 
 ### Snippets
